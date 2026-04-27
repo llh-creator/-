@@ -26,8 +26,8 @@ from typing import Optional
 
 # ━━━━━━━━━━━━━━━━━━ 配置 ━━━━━━━━━━━━━━━━━━
 
-APP_ID = "cli_a961321c35b8dbd2"
-APP_SECRET = "KHaErPv5xq74iPdxKUVIAgEhB4JQBs4L"
+APP_ID = ""
+APP_SECRET = ""
 EXPORT_DIR = "E:\desktop\本地知识库"
 
 BASE_URL = "https://open.feishu.cn/open-apis"
